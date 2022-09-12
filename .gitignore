@@ -131,3 +131,4 @@ dmypy.json
 train_scripts/funsd-finetuned
 train_scripts/funsd-finetuned-large
 funsd-finetuned
+samples_utils/client_secrets.json
