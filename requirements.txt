@@ -1,0 +1,8 @@
+transformers
+datasets
+pillow
+numpy
+torch
+easyocr
+reportlab
+requests
